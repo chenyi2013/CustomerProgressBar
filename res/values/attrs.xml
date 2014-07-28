@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomProgressBar">
+        <attr name="progress" format="integer" />
+        <attr name="max" format="integer" />
+        <attr name="spacing" format="dimension" />
+        <attr name="gridWidth" format="dimension" />
+        <attr name="undoneColor" format="color" />
+        <attr name="doneColor" format="color" />
+        <attr name="maxHeight" format="dimension" />
+        <attr name="minHeight" format="dimension" />
+        <attr name="maxWidth" format="dimension" />
+        <attr name="minWidth" format="dimension" />
+    </declare-styleable>
+
+</resources>
